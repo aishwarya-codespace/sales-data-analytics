@@ -38,9 +38,13 @@ The analysis includes:
 - Pie Charts → Weekday vs weekend distribution
 - KPI Plots → Revenue, orders, AOV
 
-### Tech Stack
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
+### Requirements
+- IDE: Visual Studio Code with the Jupyter extension
 - Jupyter Notebook
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+#### Install all dependencies with:
+pip install pandas numpy matplotlib seaborn
+
 
 ### Results & Insights
 - Weekdays generated higher sales compared to weekends.
